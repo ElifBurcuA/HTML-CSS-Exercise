@@ -1,0 +1,14 @@
+.ta {
+    text-align: center;
+}
+
+.r {
+    color:red;
+    text-align: center;
+    font-size: 52px;
+}
+
+.ul {
+    display: inline-block;
+    text-align: center;
+}
